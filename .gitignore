@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/EastWestTest/bin/Debug/netcoreapp2.2
+/EastWestTest/obj
+/EastWestTest.Repository/bin/Debug/netstandard2.0
+/EastWestTest.Repository/obj
+/EastWestTest.Service/bin/Debug/netstandard2.0
+/EastWestTest.Service/obj
+/EastWestTest.Tests/bin/Debug/netcoreapp3.1
+/EastWestTest.Tests/obj
