@@ -19,6 +19,7 @@
 6. Хранить данные в БД. СУБД – SQL Server.
 7. Проект должен использовать технологию внедрения зависимостей.
 8. Unit тесты. Использовать NUnit либо XUnit
+
 Требования к системе контроля версий: GIT
 Учебные материалы:
 C#: https://docs.microsoft.com/ru-ru/dotnet/csharp/tutorials/, https://metanit.com/sharp/;
